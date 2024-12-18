@@ -50,5 +50,4 @@ Ninja Jump is a simple endless runner game where you dodge obstacles to achieve 
    - The game ends if you hit an obstacle
    - You can then choose to play again or change character
 
-Enjoy playing Ninja Runner!
-
+Enjoy playing Ninja Jump!
